@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    overflow: hidden;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(20, 20, 48);
+}
+.header-link{
+    text-decoration: none;
+}
+.header h3{
+    margin: 13px 30px;
+    color: rgb(218, 218, 218);
+}
